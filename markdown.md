@@ -2,4 +2,4 @@
 
 Dentro del workspace Eclipse, en el menú Help, seleccione Install New Software y aparece la ventana install:
 
-!1.jpg
+<img src="1.jpg" alt="imagen1" width="300px">
